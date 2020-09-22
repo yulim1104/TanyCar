@@ -1,11 +1,2 @@
 hello
-first git tutorial
-
-this is second git tutorial
-
-merongmerong
-
-
-mergetest1
-hihi
-
+git first
